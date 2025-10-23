@@ -1,0 +1,28 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Edu+NSW+ACT+Cursive:wght@400..700&display=swap');
+
+h1{
+    font-family: "Edu NSW ACT Cursive", cursive;    
+    font-weight: 550;
+    text-align: center;
+    color: rgb(64, 64, 65);
+    text-shadow: 4px 4px 3px rgba(0 ,0 ,0 ,0.5);
+    
+    
+}
+
+.gif-container{
+    background-image: url("14347.gif");
+    height: 500px;
+    width: 100%;
+    margin: 20px auto;
+
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-position: center center; 
+    opacity: 0.99;
+    padding: 20px;
+    color: black;
+    text-align: center;
+    
+}
